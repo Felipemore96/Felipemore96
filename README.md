@@ -1,15 +1,18 @@
-## Felipe Moreira
+## Hi, I'm Felipe 👋
 
-**AI Automation Engineer & Software Developer** with a domain specialty in BIM/AEC.
+I build AI automations and internal tools that remove repetitive manual work,
+combining LLM-powered workflows with real BIM and construction domain knowledge.
+Most generalist AI work stops at "wire up an API"; mine goes further because I
+understand the AEC workflows being automated.
 
-I build automations and internal tools that connect business systems and remove
-repetitive manual work, combining AI with real construction and BIM knowledge.
+**What I work on**
+- AI workflows and automations (transcript processing, document sync, internal tooling)
+- Full-stack apps and API integrations across multiple data platforms
+- BIM/AEC tooling: IFC, model coordination, data validation
 
-**Stack:** TypeScript · Python · React · Node.js · REST APIs
-**AI & automation:** LLM workflows · API integrations · Microsoft 365 · Notion
-**Domain:** IFC · BIM coordination · AEC workflows
+**Stack**
 
-Currently building AI automations at an engineering firm in the Netherlands and
-completing Anthropic's AI Fluency program.
+`TypeScript` `Python` `React` `Node.js` · LLM workflows · REST APIs · Microsoft 365 · Notion
 
-[LinkedIn](https://linkedin.com/in/felipemore96)
+📍 Netherlands · Currently completing Anthropic's AI Fluency program
+🔗 [LinkedIn](https://linkedin.com/in/felipemore96)
